@@ -6,13 +6,13 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285707042602'] 
-global.mods = ['6285707042602'] 
-global.prems = ['6285707042602'] 
+global.owner = ['6288212514602'] 
+global.mods = ['6288212514602'] 
+global.prems = ['6288212514602'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Geeruu ✰'
-global.numberowner = '6285707042602'
+global.nameowner = 'wanofc ✰'
+global.numberowner = '628821212514602'
 global.instagram = 'https://instagram.com/adix.yr'
 global.github = 'https://github.com/agusadi19'
 global.dana = '085707042602'
@@ -20,7 +20,7 @@ global.pulsa = '085707042602'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'GeeruuMD'
+global.namebot = 'azwamMD'
 global.gc = 'https://chat.whatsapp.com/CCIlN7YFOF72twArqjHUFk'
 global.web = 'https://chat.whatsapp.com/CCIlN7YFOF72twArqjHUFk' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/adix.yr'
@@ -33,8 +33,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '↻GeeruMD'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Geeruu ×፝֟͜×'
-global.wm3 = 'ᯤ Geeruu'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 callme azwan ×፝֟͜×'
+global.wm3 = 'ᯤ azwan  
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
